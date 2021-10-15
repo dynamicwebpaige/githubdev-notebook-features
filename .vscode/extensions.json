@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "joyceerhl.vscode-pyodide",
+        "ms-toolsai.jupyter-renderers"
+    ]
+}
